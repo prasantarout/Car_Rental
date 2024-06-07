@@ -1,0 +1,63 @@
+const Images = {
+  homedemocar: require('../assets/images/homedemocar.png'),
+  homecategory1: require('../assets/images/homecategory1.png'),
+  homecategory2: require('../assets/images/homecategory2.png'),
+  homecategory3: require('../assets/images/homecategory3.png'),
+  homecategory4: require('../assets/images/homecategory4.png'),
+  homecategory5: require('../assets/images/homecategory5.png'),
+  homecategory6: require('../assets/images/homecategory6.png'),
+  homecategory7: require('../assets/images/homecategory7.png'),
+  homecategory8: require('../assets/images/homecategory8.png'),
+
+  homebrand1: require('../assets/images/homebrand1.png'),
+  homebrand2: require('../assets/images/homebrand2.png'),
+  homebrand3: require('../assets/images/homebrand3.png'),
+  homebrand4: require('../assets/images/homebrand4.png'),
+
+  homebrand5: require('../assets/images/homebrand5.png'),
+  homebrand6: require('../assets/images/homebrand6.png'),
+  homebrand7: require('../assets/images/homebrand7.png'),
+  homebrand8: require('../assets/images/homebrand8.png'),
+  homebrand9: require('../assets/images/homebrand9.png'),
+  homebrand10: require('../assets/images/homebrand10.png'),
+  homebrand11: require('../assets/images/homebrand11.png'),
+  homebrand12: require('../assets/images/homebrand12.png'),
+  authBg: require('../assets/images/authBg.png'),
+  carBlack: require('../assets/images/carBlack.png'),
+
+  homeoffer1: require('../assets/images/homeoffer1.png'),
+  homeoffer2: require('../assets/images/homeoffer2.png'),
+  homeoffer3: require('../assets/images/homeoffer3.png'),
+  homeoffer4: require('../assets/images/homeoffer4.png'),
+  drawerprofile: require('../assets/images/drawerprofile.png'),
+  user: require('../assets/images/user.png'),
+  user1: require('../assets/images/user1.png'),
+  Profile: require('../assets/images/Profile.png'),
+  InviteEarn: require('../assets/images/InviteEarn.png'),
+  cardetails: require('../assets/images/cardetails.png'),
+
+  place1:
+    'https://assets-news.housing.com/news/wp-content/uploads/2022/03/24234958/Mumbai-places-to-live-FEATURE-compressed.jpg',
+  place2:
+    'https://images.pexels.com/photos/1054417/pexels-photo-1054417.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  bannerImage: require('../assets/images/bannerImage.png'),
+  onBoardingContent: require('../assets/images/onBoardingContent.png'),
+  chatUser: require('../assets/images/43.png'),
+  backArrow: require('../assets/images/backArrow.png'),
+  dotMenu: require('../assets/images/dotMenu.png'),
+  headerLogo: require('../assets/images/headerLogo.png'),
+  car1: require('../assets/images/car1.png'),
+  heartImage: require('../assets/images/heartImage.png'),
+  calendarImage: require('../assets/images/calendarImage.png'),
+  meterImage: require('../assets/images/meterImage.png'),
+  insuranceImage: require('../assets/images/insuranceImage.png'),
+  user52: require('../assets/images/user52.png'),
+  map: require('../assets/images/map.png'),
+  starIcon: require('../assets/images/starIcon.png'),
+  sampleCar:
+    'https://gaadiwaadi.com/wp-content/uploads/2015/04/Audi-A6-2015-Front-e1440093805547-740x454.jpg',
+  carWithNoBackground: require('../assets/images/carWithNoBackground.png'),
+  bgMembershipCard: require('../assets/images/bgMembershipCard.png'),
+};
+
+export default Images;
